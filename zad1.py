@@ -52,4 +52,4 @@ rectangle = Rectangle(1, 2)
 print(f"Pole prostokąta: {rectangle.area()}, Obwód protokąta: {rectangle.perimeter()}")
 
 triangle = Triangle(1, 2, 3)
-print(f"Pole trójkąta: {triangle.area()}, Obwód trójkąta: {triangle.perimeter()}").
+print(f"Pole trójkąta: {triangle.area()}, Obwód trójkąta: {triangle.perimeter()}")
